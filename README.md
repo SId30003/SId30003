@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Siddhant Wadhai</h1>
-<h3 align="center">A passionate JAVA developer...</h3>
+<h3 align="center">Cloud and Devops Enthusiat</h3>
 <img align="right" alt="coding" width"400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajkxYzNwZ2lyNWF2anhtcmF0aW10czE5NzhnNjVpZHMwcG5mMmFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid3003&label=Profile%20views&color=0e75b6&style=flat" alt="sid3003" /> </p>
 
-- 🔭 I’m currently working on **full stack Web applications.**
+- 🔭 I’m currently working on **AWS-Cloud Computing & Kubernetes**
 
-- 🌱 I’m currently learning **Java full stack web apps\\ gradle**
+- 🌱 I’m currently learning **Kubernetes-CKA**
 
-- 💬 Ask me about **Java \\ spring**
+- 💬 Ask me about **Cloud \\ DevOps**
 
 - 📫 How to reach me **https://www.linkedin.com/in/siddhant-wadhai-518b5524a/**
 
